@@ -1,4 +1,4 @@
-package com.example.java;
+package com.ronosentono.java;
 
 import java.text.NumberFormat;
 import java.util.Locale;
