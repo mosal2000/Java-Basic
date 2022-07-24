@@ -45,3 +45,32 @@ Below  is the description of what each folder is related to which subject.
 - ArrayList
 - HashMap
 - IterateCollections
+
+### Basic Object Oriented
+
+- CreateClass
+- NestedClasses
+- ClassRelationships
+- InstanceVariables
+- InstanceMethods
+- Constructors
+- Constants
+- Enums
+
+### Inheritance
+
+- ExtendingClasses
+- Interfaces
+- Abstract
+
+### Common Java Libraries
+
+- CopyFile
+- NewIO
+- ApacheCommons
+- Internet
+
+### Application Deployment
+
+- Javadoc
+- JarFiles
